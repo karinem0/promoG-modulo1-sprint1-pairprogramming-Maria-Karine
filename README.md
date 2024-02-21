@@ -15,7 +15,7 @@ El objetivo principal de este repositorio es fomentar la colaboración y el apre
 ### Cómo Utilizar los Notebooks
 Clona este repositorio en tu máquina local usando el siguiente comando:
 
-git clone https://github.com/karinemachado0/pair-programming-python.git
+git clone https://github.com/karinem0/pair-programming-python.git
 Abre los notebooks de Jupyter en tu entorno de desarrollo preferido.
 
 Lee las instrucciones y sigue los ejercicios propuestos en cada notebook.
